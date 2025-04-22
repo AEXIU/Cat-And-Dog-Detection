@@ -1,3 +1,3 @@
-# Cat-And-Dog-Detection
-cat and dog classification and detection using Machine Learning
+# Multiclass-image-classification
+Multiclass image classification using Machine Learning
 by Ashish Baviskar And Rutuja Bhutada
